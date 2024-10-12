@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Shopper</string>
+    <string name="rightAddress">The Right Address\\nFor Shopping\\nAnyday</string>
+    <string name="quality">"it is now very easy to reach the best quality among the products o the internet "</string>
+    <string name="qulity">It is now very easy to reach the best quality among the products on the market</string>
 </resources>
